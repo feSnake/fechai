@@ -18,6 +18,10 @@ import HelloWorld from './components/HelloWorld.vue'
   </header>
 
   <RouterView />
+  <div class="text-center w-full">
+    <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
+    <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2023040367号</a>
+  </div>
 </template>
 
 <style scoped>
