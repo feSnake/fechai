@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "axios": "^1.6.7",
+    "element-plus": "^2.8.3",
     "pinia": "^2.1.7",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
@@ -38,6 +39,8 @@
     "prettier": "^3.0.3",
     "tailwindcss": "^3.4.0",
     "typescript": "~5.3.0",
+    "unplugin-auto-import": "^0.18.3",
+    "unplugin-vue-components": "^0.27.4",
     "vite": "^5.0.10",
     "vite-plugin-env-parse": "^1.0.12",
     "vitest": "^1.0.4",
